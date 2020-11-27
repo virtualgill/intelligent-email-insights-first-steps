@@ -1,4 +1,4 @@
-# AWS AI Services Demos
+# Finding Insights from Email - First Steps
 
 The code samples here are the ones walked through in the talk _Using AI to automatically find insights in email: A rapid prototyping story_
 
