@@ -29,7 +29,7 @@ From here use the _Attach policies_ button to add in permissions for Comprehend 
 ## Copying the Juypter Notebooks to your SageMaker Instance
 Once your instance is running choose "Open Jupyter". From here you have two options:
 
-1. Use the Upload button to manually copy up the Jupyter Notebooks (.ipynb) files
+1. Use the Upload button to manually copy up the Jupyter Notebooks (.ipynb) files (make sure to include the data and img folders too)
 
 or 2. Use the New button to open a terminal window and run the following commands to navigate to the correct location and clone this repo: 
 
